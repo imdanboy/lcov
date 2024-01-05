@@ -3,7 +3,7 @@
 
 # How to use
 1. run server program first
-- python3 multiconn-server.py localhost <port>
+- python3 multiconn-server.py localhost port
 
 2. run client with chinese character
-- python3 multiconn-client.py localhost <port> 你好
+- python3 multiconn-client.py localhost port 你好
